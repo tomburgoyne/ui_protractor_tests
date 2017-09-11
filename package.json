@@ -1,0 +1,28 @@
+{
+  "name": "ui_protractor_tests",
+  "version": "0.0.1",
+  "description": "Basic UI automation using ProtractorJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "protractor conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomburgoyne/ui_protractor_tests.git"
+  },
+  "keywords": [
+    "UI",
+    "test",
+    "Protractor",
+    "Selenium"
+  ],
+  "author": "Tom Burgoyne",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tomburgoyne/ui_protractor_tests/issues"
+  },
+  "homepage": "https://github.com/tomburgoyne/ui_protractor_tests#readme",
+  "devDependencies": {
+    "protractor": "^5.1.2"
+  }
+}
